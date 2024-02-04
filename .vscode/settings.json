@@ -1,0 +1,10 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "d:\\classpath\\DAO.jar",
+        "d:\\classpath\\DatabaseConnect.jar",
+        "d:\\classpath\\postgresql-42.4.0.jar",
+        "d:\\classpath\\tomcat10\\servlet-api.jar",
+        "d:\\classpath\\gson-2.10.1.jar"
+    ]
+}
